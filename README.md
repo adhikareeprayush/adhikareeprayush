@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently working on small React projects for frontend and backend tasks using PHP and MySQL.<br>👯 Looking to collaborate on web development projects, especially those involving React and PHP.<br>🤝 Seeking help with improving skills in MongoDB and overall full-stack development.<br>🌱 Currently learning React for frontend, PHP, MySQL, and MongoDB for backend.<br>💬 Ask me about web development, React, PHP, MySQL, and JavaScript for competitive coding.<br>⚡ Fun fact: I enjoy playing chess in my free time.
+🔭 Currently working on small React projects for frontend and backend tasks using PHP and MySQL.<br>👯 Looking to collaborate on web development projects, especially those involving React and PHP.<br>🤝 Seeking help with improving skills in MongoDB and overall full-stack development.<br>🌱 Currently learning React for frontend, PHP, MySQL, and MongoDB for backend.<br>💬 Ask me about web development, React, PHP, MySQL, and JavaScript for competitive coding.<br>⚡ Fun fact: The average smartphone today has more computing power than NASA's computers that put a man on the moon in 1969! 🚀📱.
 
 
 ## 🌐 Socials:
