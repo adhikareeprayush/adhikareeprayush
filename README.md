@@ -25,15 +25,15 @@ I'm a full-stack web developer, proficient in PHP and Laravel for the backend, a
 
 </p>
 
-`<b>`My GitHub Stats `</b>`
+<b>My GitHub Stats </b>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adhikareeprayush&show_icons=true&theme=radical)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=adhikareeprayush&theme=omni)](https://git.io/streak-stats)
 
-`<b>`Note:`</b>` Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-` <a href="https://github.com/adhikareeprayushgithub-readme-activity-graph"><img alt="Prayush's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=adhikareeprayush&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />``</a> `
+<a href="https://github.com/adhikareeprayushgithub-readme-activity-graph"><img alt="Prayush's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=adhikareeprayush&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 ![](./profile-3d-contrib/profile-night-green.svg)
 ![](https://komarev.com/ghpvc/?username=adhikareeprayush&abbreviated=true)
