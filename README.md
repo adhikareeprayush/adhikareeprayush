@@ -1,6 +1,6 @@
 # Hi ![img](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Prayush Adhikari
 
-## Web Developer and Data Science Enthusiast
+## Web Developer
 
 I'm a full-stack web developer, proficient in PHP and Laravel for the backend, and React for frontend development. Alongside, I'm delving into C++ and AI, while leveraging my expertise in UI/UX design using tools like Adobe Illustrator and Figma. My goal is to create captivating web experiences that seamlessly integrate functionality and aesthetics.
 
