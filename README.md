@@ -11,7 +11,7 @@ I'm a full-stack web developer, proficient in PHP and Laravel for the backend, a
 
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,php,laravel,mysql,wordpress,bootstrap,tailwind,git,gcp,github,c,cpp,arduino,babel,figma,python,pandas" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,php,laravel,mysql,wordpress,bootstrap,tailwind,git,gcp,github,c,cpp,babel,figma,python,pandas" />
   </a>
 </p>
 
