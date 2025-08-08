@@ -28,7 +28,7 @@ jobs:
       - name: Generate README file
         run: node index.js
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
           LEETCODE_USERNAME: adhikareeprayush
       - name: Push new README.md
         uses: stefanzweifel/git-auto-commit-action@v4
