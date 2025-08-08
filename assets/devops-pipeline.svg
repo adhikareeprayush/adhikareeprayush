@@ -1,0 +1,100 @@
+<svg width="500" height="300" viewBox="0 0 500 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="devops-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f1419;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1a1b27;stop-opacity:1" />
+    </linearGradient>
+    
+    <filter id="glow-effect">
+      <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
+      <feMerge> 
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="500" height="300" fill="url(#devops-bg)" rx="10"/>
+  
+  <!-- Title -->
+  <text x="250" y="30" text-anchor="middle" font-family="'Courier New', monospace" font-size="20" font-weight="bold" fill="#70a5fd">
+    DevOps Pipeline
+  </text>
+  
+  <!-- Pipeline flow -->
+  <!-- Code -->
+  <rect x="20" y="80" width="80" height="40" fill="#2d3748" stroke="#4ecdc4" stroke-width="2" rx="5">
+    <animate attributeName="stroke" values="#4ecdc4;#70a5fd;#4ecdc4" dur="3s" repeatCount="indefinite"/>
+  </rect>
+  <text x="60" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#ffffff">Code</text>
+  
+  <!-- Arrow 1 -->
+  <path d="M 100 100 L 120 100" stroke="#70a5fd" stroke-width="3" marker-end="url(#arrowhead)">
+    <animate attributeName="stroke-dasharray" values="0,20;20,0;0,20" dur="1.5s" repeatCount="indefinite"/>
+  </path>
+  
+  <!-- Build -->
+  <rect x="130" y="80" width="80" height="40" fill="#2d3748" stroke="#ff6b6b" stroke-width="2" rx="5">
+    <animate attributeName="stroke" values="#ff6b6b;#4ecdc4;#ff6b6b" dur="3s" repeatCount="indefinite" begin="0.5s"/>
+  </rect>
+  <text x="170" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#ffffff">Build</text>
+  
+  <!-- Arrow 2 -->
+  <path d="M 210 100 L 230 100" stroke="#70a5fd" stroke-width="3">
+    <animate attributeName="stroke-dasharray" values="0,20;20,0;0,20" dur="1.5s" repeatCount="indefinite" begin="0.5s"/>
+  </path>
+  
+  <!-- Test -->
+  <rect x="240" y="80" width="80" height="40" fill="#2d3748" stroke="#ffe66d" stroke-width="2" rx="5">
+    <animate attributeName="stroke" values="#ffe66d;#ff6b6b;#ffe66d" dur="3s" repeatCount="indefinite" begin="1s"/>
+  </rect>
+  <text x="280" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#ffffff">Test</text>
+  
+  <!-- Arrow 3 -->
+  <path d="M 320 100 L 340 100" stroke="#70a5fd" stroke-width="3">
+    <animate attributeName="stroke-dasharray" values="0,20;20,0;0,20" dur="1.5s" repeatCount="indefinite" begin="1s"/>
+  </path>
+  
+  <!-- Deploy -->
+  <rect x="350" y="80" width="80" height="40" fill="#2d3748" stroke="#4ecdc4" stroke-width="2" rx="5">
+    <animate attributeName="stroke" values="#4ecdc4;#ffe66d;#4ecdc4" dur="3s" repeatCount="indefinite" begin="1.5s"/>
+  </rect>
+  <text x="390" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#ffffff">Deploy</text>
+  
+  <!-- Docker container -->
+  <rect x="50" y="160" width="100" height="60" fill="#2496ed" opacity="0.8" rx="8">
+    <animate attributeName="opacity" values="0.8;0.4;0.8" dur="2s" repeatCount="indefinite"/>
+  </rect>
+  <text x="100" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#ffffff">Docker</text>
+  <text x="100" y="205" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#ffffff">Container</text>
+  
+  <!-- Jenkins -->
+  <rect x="200" y="160" width="100" height="60" fill="#d24939" opacity="0.8" rx="8">
+    <animate attributeName="opacity" values="0.8;0.4;0.8" dur="2s" repeatCount="indefinite" begin="0.7s"/>
+  </rect>
+  <text x="250" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#ffffff">Jenkins</text>
+  <text x="250" y="205" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#ffffff">CI/CD</text>
+  
+  <!-- GitHub Actions -->
+  <rect x="350" y="160" width="100" height="60" fill="#2088ff" opacity="0.8" rx="8">
+    <animate attributeName="opacity" values="0.8;0.4;0.8" dur="2s" repeatCount="indefinite" begin="1.4s"/>
+  </rect>
+  <text x="400" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#ffffff">GitHub</text>
+  <text x="400" y="205" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#ffffff">Actions</text>
+  
+  <!-- Cloud deployment indicator -->
+  <circle cx="250" cy="260" r="8" fill="#4ecdc4">
+    <animate attributeName="r" values="8;12;8" dur="1.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;0.5;1" dur="1.5s" repeatCount="indefinite"/>
+  </circle>
+  <text x="250" y="280" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#a0aec0">Deployed ✅</text>
+  
+  <!-- Arrow marker definition -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" 
+     refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#70a5fd" />
+    </marker>
+  </defs>
+</svg>

@@ -23,13 +23,16 @@ async function setGitHubRepositories() {
     if (process.env.GITHUB_TOKEN) {
       headers['Authorization'] = `token ${process.env.GITHUB_TOKEN}`;
     }
-    
-    const response = await fetch('https://api.github.com/users/adhikareeprayush/repos?sort=updated&type=all&per_page=30', {
-      headers
-    });
-    
+
+    const response = await fetch(
+      'https://api.github.com/users/adhikareeprayush/repos?sort=updated&type=all&per_page=30',
+      {
+        headers,
+      }
+    );
+
     const repos = await response.json();
-    
+
     if (response.ok && Array.isArray(repos)) {
       // Filter out forked repos and get top 3 most starred/updated
       const ownRepos = repos
@@ -44,9 +47,9 @@ async function setGitHubRepositories() {
         full_name: repo.full_name,
         stars: repo.stargazers_count,
         forks: repo.forks_count,
-        language: repo.language || 'Unknown'
+        language: repo.language || 'Unknown',
       }));
-      
+
       console.log(`✅ Fetched ${DATA.github_repositories.length} repositories`);
     } else {
       throw new Error(`GitHub API Error: ${repos.message || 'Unknown error'}`);
@@ -62,7 +65,7 @@ async function setGitHubRepositories() {
         full_name: 'adhikareeprayush/MERN-Stack-Portfolio',
         stars: 0,
         forks: 0,
-        language: 'JavaScript'
+        language: 'JavaScript',
       },
       {
         name: 'Java-DSA-Practice',
@@ -71,7 +74,7 @@ async function setGitHubRepositories() {
         full_name: 'adhikareeprayush/Java-DSA-Practice',
         stars: 0,
         forks: 0,
-        language: 'Java'
+        language: 'Java',
       },
       {
         name: 'React-UI-Components',
@@ -80,8 +83,8 @@ async function setGitHubRepositories() {
         full_name: 'adhikareeprayush/React-UI-Components',
         stars: 0,
         forks: 0,
-        language: 'TypeScript'
-      }
+        language: 'TypeScript',
+      },
     ];
   }
 }
@@ -90,14 +93,14 @@ async function setDevToPosts() {
   try {
     const response = await fetch('https://dev.to/api/articles?username=adhikareeprayush&per_page=6');
     const posts = await response.json();
-    
+
     DATA.devto_posts = posts.map(post => ({
       title: post.title,
       description: post.description || 'Click to read more...',
       url: post.url,
       published_at: new Date(post.published_at).toLocaleDateString('en-GB'),
       positive_reactions_count: post.positive_reactions_count,
-      reading_time_minutes: post.reading_time_minutes
+      reading_time_minutes: post.reading_time_minutes,
     }));
   } catch (error) {
     console.log('Error fetching dev.to posts:', error);
@@ -109,15 +112,15 @@ async function setDevToPosts() {
         url: 'https://dev.to/adhikareeprayush',
         published_at: '2025-08-01',
         positive_reactions_count: 0,
-        reading_time_minutes: 5
+        reading_time_minutes: 5,
       },
       {
         title: 'Java vs JavaScript: A Computer Engineering Perspective',
-        description: 'Comparing two powerful languages from a CS student\'s viewpoint',
+        description: "Comparing two powerful languages from a CS student's viewpoint",
         url: 'https://dev.to/adhikareeprayush',
         published_at: '2025-07-28',
         positive_reactions_count: 0,
-        reading_time_minutes: 7
+        reading_time_minutes: 7,
       },
       {
         title: 'Mastering Data Structures with C++',
@@ -125,7 +128,7 @@ async function setDevToPosts() {
         url: 'https://dev.to/adhikareeprayush',
         published_at: '2025-07-25',
         positive_reactions_count: 0,
-        reading_time_minutes: 8
+        reading_time_minutes: 8,
       },
       {
         title: 'From Design to Code: UI/UX with Figma',
@@ -133,7 +136,7 @@ async function setDevToPosts() {
         url: 'https://dev.to/adhikareeprayush',
         published_at: '2025-07-20',
         positive_reactions_count: 0,
-        reading_time_minutes: 6
+        reading_time_minutes: 6,
       },
       {
         title: 'Getting Started with DevOps as a Student',
@@ -141,7 +144,7 @@ async function setDevToPosts() {
         url: 'https://dev.to/adhikareeprayush',
         published_at: '2025-07-15',
         positive_reactions_count: 0,
-        reading_time_minutes: 10
+        reading_time_minutes: 10,
       },
       {
         title: 'LeetCode Journey: Problem Solving Tips',
@@ -149,8 +152,8 @@ async function setDevToPosts() {
         url: 'https://dev.to/adhikareeprayush',
         published_at: '2025-07-10',
         positive_reactions_count: 0,
-        reading_time_minutes: 12
-      }
+        reading_time_minutes: 12,
+      },
     ];
   }
 }
@@ -159,43 +162,49 @@ async function setLeetCodeStats() {
   try {
     // Try to fetch real LeetCode stats using community API
     const username = process.env.LEETCODE_USERNAME || 'adhikareeprayush';
-    
+
     try {
       // First try the alfa-leetcode-api
       const response = await fetch(`https://alfa-leetcode-api.onrender.com/${username}/solved`);
       const data = await response.json();
-      
+
       if (response.ok && data.solvedProblem) {
-        DATA.leetcode_stats = [{
-          total_solved: data.solvedProblem.toString(),
-          easy_solved: data.easySolved?.toString() || 'N/A',
-          medium_solved: data.mediumSolved?.toString() || 'N/A',
-          hard_solved: data.hardSolved?.toString() || 'N/A'
-        }];
+        DATA.leetcode_stats = [
+          {
+            total_solved: data.solvedProblem.toString(),
+            easy_solved: data.easySolved ? data.easySolved.toString() : 'N/A',
+            medium_solved: data.mediumSolved ? data.mediumSolved.toString() : 'N/A',
+            hard_solved: data.hardSolved ? data.hardSolved.toString() : 'N/A',
+          },
+        ];
         console.log('✅ LeetCode stats fetched from API');
         return;
       }
     } catch (apiError) {
       console.log('API fetch failed, using your provided stats...');
     }
-    
+
     // Fallback to your actual stats (300+ solved)
-    DATA.leetcode_stats = [{
-      total_solved: '300+',
-      easy_solved: '180',
-      medium_solved: '100',
-      hard_solved: '20'
-    }];
+    DATA.leetcode_stats = [
+      {
+        total_solved: '300+',
+        easy_solved: '180',
+        medium_solved: '100',
+        hard_solved: '20',
+      },
+    ];
     console.log('✅ LeetCode stats set (your actual numbers: 300+)');
   } catch (error) {
     console.log('❌ Error fetching LeetCode stats:', error);
     // Fallback to your stats
-    DATA.leetcode_stats = [{
-      total_solved: '300+',
-      easy_solved: '180',
-      medium_solved: '100',
-      hard_solved: '20'
-    }];
+    DATA.leetcode_stats = [
+      {
+        total_solved: '300+',
+        easy_solved: '180',
+        medium_solved: '100',
+        hard_solved: '20',
+      },
+    ];
   }
 }
 
