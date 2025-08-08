@@ -28,8 +28,12 @@ jobs:
       - name: Generate README file
         run: node index.js
         env:
-          OPEN_WEATHER_MAP_KEY: ${{secrets.OPEN_WEATHER_MAP_KEY}}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          LEETCODE_USERNAME: adhikareeprayush
       - name: Push new README.md
-        uses: mikeal/publish-to-github-action@master
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: 'docs: update README with latest data'
+          file_pattern: README.md
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
