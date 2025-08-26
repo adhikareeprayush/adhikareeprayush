@@ -64,12 +64,9 @@
 
 <h3>My latest posts from Dev.to</h3>
 <ul>
-  <li><a href="https://dev.to/adhikareeprayush/diy-react-because-who-needs-stability-anyway-1fjp"><b>🔥 DIY React: Because Who Needs Stability Anyway?</b></a><br/><i>Welcome back, intrepid developers, to another thrilling episode number two of &quot;React Unmasked&quot;! Or...</i></li>
-  <li><a href="https://dev.to/adhikareeprayush/react-unmasked-episode-1-the-anatomy-of-a-react-app-2g3o"><b>🔥 React Unmasked: Episode 1 - The Anatomy of a React App</b></a><br/><i>Welcome to the first episode of &quot;React Unmasked&quot;! Today, we&#39;re going to dissect a React application...</i></li>
   <li><a href="https://dev.to/adhikareeprayush/top-10-visual-studio-code-extensions-for-enhanced-productivity-4emb"><b>🔥 Top 10 Visual Studio Code Extensions for Enhanced Productivity</b></a><br/><i>Top 10 VS Code Extensions You Absolutely Need (or Else!)   So, you’ve hopped on the Visual...</i></li>
   <li><a href="https://dev.to/adhikareeprayush/create-your-api-using-c-13ej"><b>🔥 Create your API using C++</b></a><br/><i>Creating a C++ API with Drogon Framework            Introduction   In today&#39;s connected...</i></li>
-  <li><a href="https://dev.to/adhikareeprayush/best-place-to-learn-code-47dn"><b>🔥 BEST PLACE TO LEARN CODE?</b></a><br/><i>Despite spending countless hours learning to code from various platforms, I often wonder why I still...</i></li>
-  <li><a href="https://dev.to/adhikareeprayush/mastering-ui-graphic-design-top-resources-unveiled-3gmd"><b>🔥 Mastering UI &amp; Graphic Design: Top Resources Unveiled!</b></a><br/><i>Hey there, everyone! Designing plays a vital role in every project&#39;s success. Designers frequently...</i></li>
+  <li><a href="https://dev.to/adhikareeprayush/the-ultimate-roadmap-to-a-full-stack-developer-5elh"><b>🔥 The Ultimate Roadmap to a Full-Stack Developer</b></a><br/><i>We all wonder about the best way to start learning web development and how to become a successful...</i></li>
 </ul>
 
 <h3>Coding Statistics</h3>
@@ -82,5 +79,5 @@ Total Solved: <b>300+</b> | Easy: <b>180</b> | Medium: <b>100</b> | Hard: <b>20<
 </p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Wednesday 27 August at 00:00 GMT+5:45<br /></p>
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Wednesday 27 August at 02:54 GMT+5:45<br /></p>
 <p align="center"><img src="https://github.com/adhikareeprayush/adhikareeprayush/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/adhikareeprayush/adhikareeprayush?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/adhikareeprayush/adhikareeprayush?style=flat-square&labelColor=343b41"/></p>
