@@ -64,6 +64,7 @@
 
 <h3>My latest posts from Dev.to</h3>
 <ul>
+  <li><a href="https://dev.to/adhikareeprayush/stop-paying-for-obsidian-sync-heres-how-i-actually-did-it-3i4h"><b>🔥 Stop Paying for Obsidian Sync: Here&#39;s How I Actually Did It</b></a><br/><i>So you&#39;ve fallen into the Obsidian rabbit hole. Good. Now you&#39;re realizing that having your notes on...</i></li>
   <li><a href="https://dev.to/adhikareeprayush/top-10-visual-studio-code-extensions-for-enhanced-productivity-4emb"><b>🔥 Top 10 Visual Studio Code Extensions for Enhanced Productivity</b></a><br/><i>Top 10 VS Code Extensions You Absolutely Need (or Else!)   So, you’ve hopped on the Visual...</i></li>
   <li><a href="https://dev.to/adhikareeprayush/create-your-api-using-c-13ej"><b>🔥 Create your API using C++</b></a><br/><i>Creating a C++ API with Drogon Framework            Introduction   In today&#39;s connected...</i></li>
   <li><a href="https://dev.to/adhikareeprayush/the-ultimate-roadmap-to-a-full-stack-developer-5elh"><b>🔥 The Ultimate Roadmap to a Full-Stack Developer</b></a><br/><i>We all wonder about the best way to start learning web development and how to become a successful...</i></li>
@@ -79,5 +80,5 @@ Total Solved: <b>300+</b> | Easy: <b>180</b> | Medium: <b>100</b> | Hard: <b>20<
 </p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Tuesday 7 October at 20:56 GMT+5:45<br /></p>
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Wednesday 8 October at 00:01 GMT+5:45<br /></p>
 <p align="center"><img src="https://github.com/adhikareeprayush/adhikareeprayush/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/adhikareeprayush/adhikareeprayush?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/adhikareeprayush/adhikareeprayush?style=flat-square&labelColor=343b41"/></p>
