@@ -9,6 +9,8 @@
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Node.js" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img alt="Java" src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
+  <img alt="Spring Boot" src="https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
@@ -80,5 +82,5 @@ Total Solved: <b>300+</b> | Easy: <b>180</b> | Medium: <b>100</b> | Hard: <b>20<
 </p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Wednesday 31 December at 06:44 GMT+5:45<br /></p>
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Wednesday 31 December at 09:39 GMT+5:45<br /></p>
 <p align="center"><img src="https://github.com/adhikareeprayush/adhikareeprayush/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/adhikareeprayush/adhikareeprayush?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/adhikareeprayush/adhikareeprayush?style=flat-square&labelColor=343b41"/></p>
