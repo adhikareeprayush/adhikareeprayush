@@ -62,12 +62,12 @@
 
 <h3>My latest posts from Dev.to</h3>
 <ul>
+  <li><a href="https://dev.to/adhikareeprayush/security-pitfalls-in-react-apps-i-learned-the-hard-way-56e0"><b>🔥 Security Pitfalls in React Apps I Learned the Hard Way</b></a><br/><i>A few months back I was doing a code review for a friend&#39;s project and noticed they were storing JWTs...</i></li>
   <li><a href="https://dev.to/adhikareeprayush/i-built-a-free-public-random-quotes-api-no-key-no-auth-just-use-it-kg5"><b>🔥 I Built a Free Public Random Quotes API — No Key, No Auth, Just Use It</b></a><br/><i>Hey there! So you&#39;ve been Googling for a free quotes API that doesn&#39;t require signing up, doesn&#39;t...</i></li>
   <li><a href="https://dev.to/adhikareeprayush/mongodb-zero-to-advanced-the-real-guide-nobody-else-will-write-em5"><b>🔥 MongoDB: Zero to Advanced (The Real Guide Nobody Else Will Write)</b></a><br/><i>Hey there! So you&#39;ve heard about MongoDB and now you&#39;re wondering what the heck it actually is and...</i></li>
   <li><a href="https://dev.to/adhikareeprayush/database-indexing-explained-like-youre-5-then-like-youre-a-senior-dev-57hc"><b>🔥 Database Indexing Explained Like You&#39;re 5 (Then Like You&#39;re a Senior Dev)</b></a><br/><i>Hey there! So you want to understand database indexing? Cool. Let me break this down in a way that...</i></li>
   <li><a href="https://dev.to/adhikareeprayush/setting-up-your-command-line-assistant-with-google-services-the-complete-guide-3000"><b>🔥 Setting Up Your Command Line Assistant with Google Services (The Complete Guide)</b></a><br/><i>Hey there! Welcome back. It&#39;s been a minute since my last blog on 7 Productivity Hacks That Changed...</i></li>
   <li><a href="https://dev.to/adhikareeprayush/7-productivity-hacks-that-changed-my-life-and-will-change-yours-too-19ne"><b>🔥 7 Productivity Hacks That Changed My Life (And Will Change Yours Too)</b></a><br/><i>Hey there! I am glad you ended up here. Look, I&#39;ve tried every productivity hack under the sun, and...</i></li>
-  <li><a href="https://dev.to/adhikareeprayush/stop-paying-for-obsidian-sync-heres-how-i-actually-did-it-3i4h"><b>🔥 Stop Paying for Obsidian Sync: Here&#39;s How I Actually Did It</b></a><br/><i>So you&#39;ve fallen into the Obsidian rabbit hole. Good. Now you&#39;re realizing that having your notes on...</i></li>
 </ul>
 
 <h3>Coding Statistics</h3>
@@ -80,5 +80,5 @@ Total Solved: <b>300+</b> | Easy: <b>180</b> | Medium: <b>100</b> | Hard: <b>20<
 </p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Monday 22 June at 08:29 GMT+5:45<br /></p>
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Monday 22 June at 14:32 GMT+5:45<br /></p>
 <p align="center"><img src="https://github.com/adhikareeprayush/adhikareeprayush/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/adhikareeprayush/adhikareeprayush?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/adhikareeprayush/adhikareeprayush?style=flat-square&labelColor=343b41"/></p>
