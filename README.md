@@ -37,6 +37,13 @@
   </thead>
   <tbody>
     <tr>
+      <td><a href="https://github.com/adhikareeprayush/Portfolio-Website-Template"><b>Portfolio-Website-Template</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/adhikareeprayush&#x2F;Portfolio-Website-Template?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/adhikareeprayush&#x2F;Portfolio-Website-Template?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/adhikareeprayush&#x2F;Portfolio-Website-Template?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/adhikareeprayush&#x2F;Portfolio-Website-Template?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/adhikareeprayush/TheBookDB-API"><b>TheBookDB-API</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/adhikareeprayush&#x2F;TheBookDB-API?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/adhikareeprayush&#x2F;TheBookDB-API?style=flat-square&labelColor=343b41"/></td>
@@ -49,13 +56,6 @@
       <td><img alt="Forks" src="https://img.shields.io/github/forks/adhikareeprayush&#x2F;backend-retails?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/adhikareeprayush&#x2F;backend-retails?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/adhikareeprayush&#x2F;backend-retails?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/adhikareeprayush/Stream-Suggester-Telegram-Bot"><b>Stream-Suggester-Telegram-Bot</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/adhikareeprayush&#x2F;Stream-Suggester-Telegram-Bot?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/adhikareeprayush&#x2F;Stream-Suggester-Telegram-Bot?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/adhikareeprayush&#x2F;Stream-Suggester-Telegram-Bot?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/adhikareeprayush&#x2F;Stream-Suggester-Telegram-Bot?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
@@ -80,5 +80,5 @@ Total Solved: <b>300+</b> | Easy: <b>180</b> | Medium: <b>100</b> | Hard: <b>20<
 </p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Wednesday 15 July at 21:57 GMT+5:45<br /></p>
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Thursday 16 July at 00:39 GMT+5:45<br /></p>
 <p align="center"><img src="https://github.com/adhikareeprayush/adhikareeprayush/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/adhikareeprayush/adhikareeprayush?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/adhikareeprayush/adhikareeprayush?style=flat-square&labelColor=343b41"/></p>
