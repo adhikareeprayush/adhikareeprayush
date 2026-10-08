@@ -62,12 +62,12 @@
 
 <h3>My latest posts from Dev.to</h3>
 <ul>
+  <li><a href="https://dev.to/adhikareeprayush/git-explained-for-beginners-without-the-confusing-parts-5036"><b>🔥 Git Explained for Beginners (Without the Confusing Parts)</b></a><br/><i>Git feels like magic commands until you get the mental model. Here&#39;s a plain-English guide to commits, branches, merges, and undoing mistakes, with only the commands you actually need.</i></li>
   <li><a href="https://dev.to/adhikareeprayush/stop-panicking-at-red-text-how-to-actually-read-error-messages-1df"><b>🔥 Stop Panicking at Red Text: How to Actually Read Error Messages</b></a><br/><i>Error messages aren&#39;t insults, they&#39;re clues. A beginner-friendly guide to reading tracebacks, decoding common errors, and asking for help the right way.</i></li>
   <li><a href="https://dev.to/adhikareeprayush/which-programming-language-should-you-learn-first-stop-overthinking-it-1km8"><b>🔥 Which Programming Language Should You Learn First? (Stop Overthinking It)</b></a><br/><i>Python, JavaScript, Java, C++? A no-BS guide to picking your first programming language based on what you want to build, plus a simple 90-day plan to actually get started.</i></li>
   <li><a href="https://dev.to/adhikareeprayush/your-first-internship-how-to-not-feel-completely-lost-in-week-one-5cb0"><b>🔥 Your First Internship: How to Not Feel Completely Lost in Week One</b></a><br/><i>Landed your first internship and terrified of week one? Here&#39;s how to read the unwritten rules, ask good questions, and actually make an impression without pretending to know everything.</i></li>
   <li><a href="https://dev.to/adhikareeprayush/i-spent-a-weekend-binge-watching-llm-content-so-you-dont-have-to-okay-you-still-should-but-1im1"><b>🔥 I Spent a Weekend Binge-Watching LLM Content So You Don&#39;t Have To (Okay, You Still Should, But Here&#39;s the Map)</b></a><br/><i>Real talk: everyone and their uncle is &quot;using AI&quot; right now, but ask most people what a token...</i></li>
   <li><a href="https://dev.to/adhikareeprayush/tutorial-hell-is-real-i-watched-40-hours-of-videos-and-built-nothing-heres-how-i-escaped-2ie9"><b>🔥 Tutorial Hell Is Real: I Watched 40 Hours of Videos and Built Nothing (Here&#39;s How I Escaped)</b></a><br/><i>Stuck watching tutorials but can&#39;t build anything on your own? Here&#39;s the no-BS guide to escaping tutorial hell, with a simple 30-day plan for beginners.</i></li>
-  <li><a href="https://dev.to/adhikareeprayush/should-you-still-learn-to-code-in-2026-an-honest-take-from-a-student-whos-still-grinding-4f3"><b>🔥 Should You Still Learn to Code in 2026? An Honest Take From a Student Who&#39;s Still Grinding</b></a><br/><i>Everyone says coding is dead. Here&#39;s the no-BS take on what beginners should actually learn in the AI era, and how to use AI without rotting your brain.</i></li>
 </ul>
 
 <h3>Coding Statistics</h3>
@@ -80,5 +80,5 @@ Total Solved: <b>300+</b> | Easy: <b>180</b> | Medium: <b>100</b> | Hard: <b>20<
 </p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Thursday 8 October at 06:18 GMT+5:45<br /></p>
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Thursday 8 October at 15:26 GMT+5:45<br /></p>
 <p align="center"><img src="https://github.com/adhikareeprayush/adhikareeprayush/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/adhikareeprayush/adhikareeprayush?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/adhikareeprayush/adhikareeprayush?style=flat-square&labelColor=343b41"/></p>
