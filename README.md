@@ -62,12 +62,12 @@
 
 <h3>My latest posts from Dev.to</h3>
 <ul>
+  <li><a href="https://dev.to/adhikareeprayush/how-to-answer-tell-me-about-yourself-without-freezing-up-47mo"><b>🔥 How to Answer &quot;Tell Me About Yourself&quot; Without Freezing Up</b></a><br/><i>The question that opens almost every interview trips up more beginners than any technical problem. Here&#39;s how to build a short, honest answer and actually deliver it calmly.</i></li>
   <li><a href="https://dev.to/adhikareeprayush/side-project-ideas-that-actually-impress-recruiters-not-another-to-do-app-ape"><b>🔥 Side Project Ideas That Actually Impress Recruiters (Not Another To-Do App)</b></a><br/><i>Skip the tutorial clones. Here are practical side project ideas for student developers, plus what makes a project stand out and how to present it so recruiters remember it.</i></li>
   <li><a href="https://dev.to/adhikareeprayush/job-offer-vs-starting-your-own-thing-how-to-actually-decide-2i3g"><b>🔥 Job Offer vs Starting Your Own Thing: How to Actually Decide</b></a><br/><i>Torn between taking a stable job and betting on your own project or startup? Here&#39;s a clear-eyed, non-hustle-culture framework for making the call, with no one-size-fits-all answer.</i></li>
   <li><a href="https://dev.to/adhikareeprayush/php2shell-two-critical-php-bugs-you-need-to-patch-today-cve-2026-109618-cve-2026-109619-1do7"><b>🔥 PHP2Shell: Two Critical PHP Bugs You Need to Patch Today (CVE-2026-109618 &amp; CVE-2026-109619)</b></a><br/><i>Two critical remote code execution bugs just landed in the PHP engine itself. Here&#39;s what they are, whether you&#39;re affected, and exactly how to patch.</i></li>
   <li><a href="https://dev.to/adhikareeprayush/learning-to-code-without-burning-out-how-to-stay-consistent-for-the-long-haul-1mlk"><b>🔥 Learning to Code Without Burning Out: How to Stay Consistent for the Long Haul</b></a><br/><i>Most beginners quit because of burnout, not difficulty. Here&#39;s how to build a sustainable learning routine, spot the warning signs early, and restart without guilt.</i></li>
   <li><a href="https://dev.to/adhikareeprayush/how-to-build-your-first-portfolio-website-even-if-youre-not-a-designer-19ho"><b>🔥 How to Build Your First Portfolio Website (Even If You&#39;re Not a Designer)</b></a><br/><i>A beginner-friendly guide to building a portfolio site that actually gets you noticed. What to include, how to design it without being a designer, and how to put it online for free.</i></li>
-  <li><a href="https://dev.to/adhikareeprayush/git-explained-for-beginners-without-the-confusing-parts-5036"><b>🔥 Git Explained for Beginners (Without the Confusing Parts)</b></a><br/><i>Git feels like magic commands until you get the mental model. Here&#39;s a plain-English guide to commits, branches, merges, and undoing mistakes, with only the commands you actually need.</i></li>
 </ul>
 
 <h3>Coding Statistics</h3>
@@ -80,5 +80,5 @@ Total Solved: <b>300+</b> | Easy: <b>180</b> | Medium: <b>100</b> | Hard: <b>20<
 </p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Saturday 31 October at 22:14 GMT+5:45<br /></p>
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Sunday 1 November at 02:31 GMT+5:45<br /></p>
 <p align="center"><img src="https://github.com/adhikareeprayush/adhikareeprayush/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/adhikareeprayush/adhikareeprayush?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/adhikareeprayush/adhikareeprayush?style=flat-square&labelColor=343b41"/></p>
