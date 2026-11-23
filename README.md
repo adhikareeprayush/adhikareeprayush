@@ -62,12 +62,12 @@
 
 <h3>My latest posts from Dev.to</h3>
 <ul>
+  <li><a href="https://dev.to/adhikareeprayush/your-first-hackathon-how-to-survive-24-to-36-hours-of-chaos-and-actually-enjoy-it-55cj"><b>🔥 Your First Hackathon: How to Survive 24 to 36 Hours of Chaos (and Actually Enjoy It)</b></a><br/><i>Nervous about your first hackathon? Here&#39;s how to pick a team, scope an idea you can actually finish, survive the sleepless hours, and present with confidence.</i></li>
   <li><a href="https://dev.to/adhikareeprayush/how-to-land-your-first-freelance-client-as-a-student-with-no-experience-4a49"><b>🔥 How to Land Your First Freelance Client as a Student (With No Experience)</b></a><br/><i>No clients, no reviews, no experience? Here&#39;s a practical, honest guide for student developers to find, pitch, price, and deliver their first freelance project.</i></li>
   <li><a href="https://dev.to/adhikareeprayush/your-resume-is-getting-rejected-by-a-robot-before-a-human-ever-sees-it-3oel"><b>🔥 Your Resume Is Getting Rejected by a Robot Before a Human Ever Sees It</b></a><br/><i>Applied to 100 jobs and heard nothing back? Your resume might be failing the applicant tracking system before a human reads it. Here&#39;s how to actually get through.</i></li>
   <li><a href="https://dev.to/adhikareeprayush/building-a-career-network-when-you-dont-know-a-single-person-in-tech-1fpn"><b>🔥 Building a Career Network When You Don&#39;t Know a Single Person in Tech</b></a><br/><i>No industry contacts, no referrals, no &quot;my uncle works at Google&quot;? Here&#39;s a practical, non-cringe guide for students to build real connections from absolute zero.</i></li>
   <li><a href="https://dev.to/adhikareeprayush/how-to-answer-tell-me-about-yourself-without-freezing-up-47mo"><b>🔥 How to Answer &quot;Tell Me About Yourself&quot; Without Freezing Up</b></a><br/><i>The question that opens almost every interview trips up more beginners than any technical problem. Here&#39;s how to build a short, honest answer and actually deliver it calmly.</i></li>
   <li><a href="https://dev.to/adhikareeprayush/side-project-ideas-that-actually-impress-recruiters-not-another-to-do-app-ape"><b>🔥 Side Project Ideas That Actually Impress Recruiters (Not Another To-Do App)</b></a><br/><i>Skip the tutorial clones. Here are practical side project ideas for student developers, plus what makes a project stand out and how to present it so recruiters remember it.</i></li>
-  <li><a href="https://dev.to/adhikareeprayush/job-offer-vs-starting-your-own-thing-how-to-actually-decide-2i3g"><b>🔥 Job Offer vs Starting Your Own Thing: How to Actually Decide</b></a><br/><i>Torn between taking a stable job and betting on your own project or startup? Here&#39;s a clear-eyed, non-hustle-culture framework for making the call, with no one-size-fits-all answer.</i></li>
 </ul>
 
 <h3>Coding Statistics</h3>
@@ -80,5 +80,5 @@ Total Solved: <b>300+</b> | Easy: <b>180</b> | Medium: <b>100</b> | Hard: <b>20<
 </p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Monday 23 November at 00:34 GMT+5:45<br /></p>
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Monday 23 November at 06:58 GMT+5:45<br /></p>
 <p align="center"><img src="https://github.com/adhikareeprayush/adhikareeprayush/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/adhikareeprayush/adhikareeprayush?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/adhikareeprayush/adhikareeprayush?style=flat-square&labelColor=343b41"/></p>
